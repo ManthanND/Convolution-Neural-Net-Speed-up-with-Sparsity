@@ -1,4 +1,4 @@
-# Sparse YOLOv5 Model- In colaboration with IIT Bombay and Smart Sentry.ai
+# Sparse YOLOv5 Model- In association with IIT Bombay and Smart Sentry.ai
 
 ![alt text](./head.PNG)
 
@@ -9,10 +9,9 @@ Edge computing presents a good alternative to cloud computing in context of issu
 
 
 ## Team Members
-- [Manthan Dhisale](https://github.com/ManthanND) *(Team Lead)* 
-- [Varad Mane](https://github.com/vrdmn7721)
-- [Sumit Sureka](https://github.com/sumitrock5)
-- [Prashant Shettigar](https://github.com/prashants31)
-- [Yashwardhan Bahure](https://github.com/yash-217)
+- [Manthan Dhisale](https://github.com/ManthanND) 
+- [Arun Jha](https://github.com/jhaarun)
+- [Prakhar Jain](https://github.com/pra1608)
+
 
 
