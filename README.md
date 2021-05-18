@@ -1,6 +1,6 @@
 # Sparse YOLOv5 Model- In association with IIT Bombay and Smart Sentry.ai
 
-![alt text](./head.PNG)
+![alt text](./headd.PNG)
 
 This repository is a Sparse YOLOv5 model developed to make existing YOLOv5 model more efficient in terms of memory and computation speed. This repository can either be cloned/downloaded in your local machine/edge computer OR a tutorial.ibnpy Google Colab version of this model can be run in.
 
