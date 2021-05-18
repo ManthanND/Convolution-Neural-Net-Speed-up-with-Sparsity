@@ -14,5 +14,9 @@ Edge computing presents a good alternative to cloud computing in context of issu
 - [Arun Jha](https://github.com/jhaarun)
 - [Prakhar Jain](https://github.com/pra1608)
 
+## Link for the google colab version of this repo:
+https://colab.research.google.com/drive/1b_lbnroK5stOQ_L9jQxPwsrX1pR0ehk8?usp=sharing
+
+
 
 
