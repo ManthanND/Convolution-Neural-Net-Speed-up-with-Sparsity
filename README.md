@@ -1,4 +1,5 @@
-# Sparse YOLOv5 Model- In association with IIT Bombay and Smart Sentry.ai
+# Convolution Neural Net Speed up with Sparsity
+- In association with IIT Bombay and Smart Sentry.ai
 
 ![alt text](./headd.PNG)
 
